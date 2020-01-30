@@ -5,3 +5,6 @@
 - [Lectures](https://ledatascifi.github.io/lectures-spr2020/intro.html)
 - [My Participation Repo](https://github.com/jmartindyer/FIN377-participation)
 - [My GH account](https://github.com/jmartindyer)
+
+# How To
+- Load my participation repo in Jupyter I run " jupyter notebook --notebook-dir "C:\Users\Juan Gabriel\Documents\GitHub\fin377-participation" "
