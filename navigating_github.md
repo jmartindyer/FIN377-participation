@@ -11,6 +11,10 @@
 - To commit changes to master I can *upload* a file to Github, or *commit changes* in Github desktop
 
 
+
+
+## The Golden Rules
+
 | **Category** | **Rule**  |
 | :--- | :--- |
 | 0. **PLAN BEFORE YOU CODE** | A. "Pseudo code" is writing out the broad steps in plain language. I often (almost always for complicated tasks) do this on paper, then translate it to code as an outline (in the code's comments). <br> <br> Maybe planning sounds boring and like a waste of time. I get it; I also want to [shoot first](https://youtu.be/la7uuFsCIrg?t=43) like [Han did...](https://youtu.be/93pXrmCdlI0?t=26)  but coders like Han often [end up looking like this guy](https://youtu.be/mLyOj_QD4a4?t=67)... |
