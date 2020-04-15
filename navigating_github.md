@@ -1,13 +1,25 @@
 
-
+# Important Links
 - [Class homepage](https://ledatascifi.github.io/)
 - [Discussion and Announcements](https://github.com/LeDataSciFi/Discussion)
 - [Lectures](https://ledatascifi.github.io/lectures-spr2020/intro.html)
 - [My Participation Repo](https://github.com/jmartindyer/FIN377-participation)
 - [My GH account](https://github.com/jmartindyer)
 
+<<<<<<< HEAD
 
 ## The Golden Rules
+=======
+# How To
+- To load my participation repo in Jupyter I run " jupyter notebook --notebook-dir "C:\Users\Juan Gabriel\Documents\GitHub\fin377-participation" "
+- To commit changes to master I can *upload* a file to Github, or *commit changes* in Github desktop
+
+
+
+
+## The Golden Rules
+
+>>>>>>> 7022faf08af130694abb686ea45f1d01790b37b3
 | **Category** | **Rule**  |
 | :--- | :--- |
 | 0. **PLAN BEFORE YOU CODE** | A. "Pseudo code" is writing out the broad steps in plain language. I often (almost always for complicated tasks) do this on paper, then translate it to code as an outline (in the code's comments). <br> <br> Maybe planning sounds boring and like a waste of time. I get it; I also want to [shoot first](https://youtu.be/la7uuFsCIrg?t=43) like [Han did...](https://youtu.be/93pXrmCdlI0?t=26)  but coders like Han often [end up looking like this guy](https://youtu.be/mLyOj_QD4a4?t=67)... |
